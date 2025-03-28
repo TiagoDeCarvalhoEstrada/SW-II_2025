@@ -1,0 +1,15 @@
+{
+    "nome": "mouse",
+    "preco": 100,
+    "quantidade": 20,
+    "0": {
+        "nome": "Headset",
+        "preco": 200,
+        "quantidade": 10
+    },
+    "1": {
+        "nome": "Headset",
+        "preco": 200,
+        "quantidade": 10
+    }
+}
